@@ -1,0 +1,11 @@
+feature,accounting_bucket,why_it_matters
+ ROA(A) before interest and % after tax,Profitability,After-tax profitability; persistent weakness is a common distress signal
+ Operating Profit Rate,Profitability,Operating performance signal (less influenced by capital structure)
+ Operating Gross Margin,Profitability,Margin strength and pricing power proxy
+ Working Capital/Equity,Liquidity,Liquidity buffer relative to equity
+ Current Liabilities/Liability,Liquidity,Short-term pressure within the liability structure
+ Total debt/Total net worth,Leverage,Debt burden relative to net worth
+ Interest-bearing debt interest rate,Leverage,Cost of debt; often rises as credit quality deteriorates
+ Cash flow rate,Cash Flow,Cash generation indicator
+ Operating Funds to Liability,Cash Flow,Operating funds available to cover obligations
+ Retained Earnings to Total Assets,Earnings Quality,Long-run capital accumulation / retained profitability
